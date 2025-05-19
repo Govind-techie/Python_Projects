@@ -11,5 +11,11 @@ music = {
     "in the stars" : "https://www.youtube.com/watch?v=Wdl3qal2E2I",
     "somewhere only we go" : "https://www.youtube.com/watch?v=-HwPKDlb3e8",
     "chaiyya chaiyya" : "https://www.youtube.com/watch?v=9yT4F8hzykY",
-    "ishq sufiyana" : "https://www.youtube.com/watch?v=5RT6QMKJTjQ"
+    "ishq sufiyana" : "https://www.youtube.com/watch?v=5RT6QMKJTjQ",
+    "hormone" : "https://www.youtube.com/watch?v=ZS9XFMRF85g",
+    "nandemonaiya" : "https://www.youtube.com/watch?v=Ri_a4z2yGYM",
+    "sparkle" : "https://www.youtube.com/watch?v=a2GujJZfXpg",
+    "i mata aarti" : "https://www.youtube.com/watch?v=FQGmSHkuXeQ",
+    "i mata bhajan" : "https://www.youtube.com/watch?v=eL02TsvRvRk",
+    "suzume" : "https://www.youtube.com/watch?v=luhOu2hcWIU"
 }
